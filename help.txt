@@ -1,0 +1,55 @@
+https://www.codicode.com/art/upload_and_save_a_canvas_image_to_the_server.aspx
+
+https://stackoverflow.com/questions/16598973/uploading-binary-file-on-node-js
+
+https://www.google.com/search?q=DeprecationWarning%3A+Buffer()+is+deprecated+due+to+security+and+usability+issues.+Please+use+the+Buffer.alloc()%2C+Buffer.allocUnsafe()%2C+or+Buffer.from()+methods+instead.&rlz=1C1CHBD_enIN800IN800&oq=DeprecationWarning%3A+Buffer()+is+deprecated+due+to+security+and+usability+issues.+Please+use+the+Buffer.alloc()%2C+Buffer.allocUnsafe()%2C+or+Buffer.from()+methods+instead.&aqs=chrome..69i57j69i58.5445j0j15&sourceid=chrome&ie=UTF-8
+
+
+https://stackoverflow.com/questions/57110368/how-to-upload-captured-photo-from-browser-canvas-to-node-server
+
+
+
+
+
+
+install node js
+
+
+open command window 
+npm install pm2 -g
+
+goto the folder
+
+run npm install
+
+goto api folder
+run pm2 start avsserver.js
+
+
+open second command window
+goto the folder
+run pm2 start avsserver.js
+ 
+
+
+Send Sms from node
+https://www.youtube.com/watch?v=k0HaX2YXBXE
+
+
+install ubuntu server
+https://www.youtube.com/watch?v=QbmRXJJKsvs&t=93s
+
+install desktop for ubuntu server
+https://www.youtube.com/watch?v=rWyWt3DR9Fs
+
+
+VM share folders
+https://www.youtube.com/watch?v=6j6vq5nwOVs
+
+VM share folders with ubuntu
+https://www.youtube.com/watch?v=9-teQnZ8LEY
+
+
+== Linux Server details
+hotbyte
+pass : Hotsys@2020 

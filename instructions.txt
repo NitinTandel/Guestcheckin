@@ -1,0 +1,23 @@
+-- Frist Time
+git status
+
+git init
+
+git add --a
+
+git config --global user.email "nitin.tandel16@gmail.com"
+git config --global user.name "NitinTandel"
+
+git commit -m "Frist commit"
+git remote add origin https://github.com/NitinTandel/Guestcheckin.git
+git push --set-upstream origin master
+
+
+
+-- Always
+git status
+git add -a
+
+git commit -m "My comments"
+git remote add origin https://github.com/NitinTandel/Guestcheckin.git
+git push -u origin master

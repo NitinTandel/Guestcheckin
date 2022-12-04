@@ -1,0 +1,28 @@
+{
+  "name": "guestcheckinapi",
+  "version": "1.0.0",
+  "description": "Fees Application API server",
+  "main": "AVSServer.js",
+  "private": true,
+  "scripts": {
+    "build1": "webpack --config webpack.config.js -p",
+    "start1": "webpack -p  && node AVSFees.js",
+    "dev": "nodemon AVSServer.js",
+    "start": "node AVSServer.js"
+  },
+  "author": "Nitin Tandel",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "^2.8.5",
+    "cross-env": "^5.2.0",
+    "express": "*",
+    "jsonwebtoken": "^8.5.1",
+    "nodemailer": "^4.7.0",
+    "pdfmake": "^0.1.38",
+    "request": "^2.87.0",
+    "sqlite3": "^4.0.9",
+    "yadbf": "^3.2.3"
+  }
+}
